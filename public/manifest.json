@@ -1,0 +1,17 @@
+{
+  "name": "Panel de Administración",
+  "short_name": "AdminPWA",
+  "description": "Sistema modular para clientes, productos y facturación con soporte PWA.",
+  "start_url": "./index.html",
+  "display": "fullscreen",
+  "background_color": "#f0f0f0",
+  "theme_color": "#1a73e8",
+  "icons": [
+    {
+      "src": "icons/app-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
